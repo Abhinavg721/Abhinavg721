@@ -1,6 +1,6 @@
 # ANSIBLE
 
-<img src ="/home/abhinav/Downloads/js practice/Ansible_Logo.png">
+<img src ="./Ansible_Logo.png">
 
 ## TABLE OF CONTENT
 - [INTRODUCTION](#INTRODUCTION)

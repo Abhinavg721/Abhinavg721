@@ -1,6 +1,6 @@
 # ANSIBLE
 
-<img src ="./Ansible_Logo.png">
+<img src ="https://ih1.redbubble.net/image.919262417.3645/fposter,small,wall_texture,square_product,600x600.jpg">
 
 ## TABLE OF CONTENT
 - [INTRODUCTION](#INTRODUCTION)
